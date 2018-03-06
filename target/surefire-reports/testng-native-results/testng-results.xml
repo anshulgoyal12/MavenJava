@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="37" started-at="2017-11-03T12:27:15Z" finished-at="2017-11-03T12:27:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="37" started-at="2017-11-03T12:27:15Z" finished-at="2017-11-03T12:27:15Z">
+      <class name="Selenium.SeleniumTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:Selenium.SeleniumTest@1adae5d]" name="test1" duration-ms="6" started-at="2017-11-03T17:57:15Z" finished-at="2017-11-03T17:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:0, instance:Selenium.SeleniumTest@1adae5d]" name="test2" duration-ms="0" started-at="2017-11-03T17:57:15Z" finished-at="2017-11-03T17:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- Selenium.SeleniumTest -->
+      <class name="Selenium.AppiumTest">
+        <test-method status="PASS" signature="test3()[pri:0, instance:Selenium.AppiumTest@12cbfa]" name="test3" duration-ms="1" started-at="2017-11-03T17:57:15Z" finished-at="2017-11-03T17:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:Selenium.AppiumTest@12cbfa]" name="test4" duration-ms="0" started-at="2017-11-03T17:57:15Z" finished-at="2017-11-03T17:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- Selenium.AppiumTest -->
+      <class name="Selenium.RestAPITest">
+        <test-method status="PASS" signature="test6()[pri:0, instance:Selenium.RestAPITest@cf57e3]" name="test6" duration-ms="0" started-at="2017-11-03T17:57:15Z" finished-at="2017-11-03T17:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test5()[pri:0, instance:Selenium.RestAPITest@cf57e3]" name="test5" duration-ms="0" started-at="2017-11-03T17:57:15Z" finished-at="2017-11-03T17:57:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+      </class> <!-- Selenium.RestAPITest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
